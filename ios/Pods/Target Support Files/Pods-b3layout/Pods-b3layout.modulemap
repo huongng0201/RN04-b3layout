@@ -1,0 +1,6 @@
+module Pods_b3layout {
+  umbrella header "Pods-b3layout-umbrella.h"
+
+  export *
+  module * { export * }
+}
